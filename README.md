@@ -1,7 +1,6 @@
 # ecommerce-retention-sql
 View the Interactive Tableau Dashboard:
-https://public.tableau.com/app/profile/sravya.kodavatiganti/viz/Ecommerce_Customer_Retention/E-CommerceCustomerRetentionCohorts#1
- Executive Summary
+https://public.tableau.com/app/profile/sravya.kodavatiganti/viz/Ecommerce_Customer_Retention/E-CommerceCustomerRetentionCohorts#1 Executive Summary:
 In e-commerce, **Customer Retention** is often more important than Acquisition. A 5% increase in retention can increase profits by 25-95%.
 
 This project analyzes 500,000+ transaction rows from a UK-based online retailer to identify Cohort Retention Rates. By grouping customers based on their first purchase month (Cohorts), we track how their purchasing behavior changes over time.
