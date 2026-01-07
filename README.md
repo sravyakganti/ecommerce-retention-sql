@@ -1,6 +1,6 @@
 # ecommerce-retention-sql
 View the Interactive Tableau Dashboard:
-https://public.tableau.com/views/Ecommerce_Customer_Retention/E-CommerceCustomerRetentionCohorts?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/sravya.kodavatiganti/viz/Ecommerce_Customer_Retention/E-CommerceCustomerRetentionCohorts#1
  Executive Summary
 In e-commerce, **Customer Retention** is often more important than Acquisition. A 5% increase in retention can increase profits by 25-95%.
 
